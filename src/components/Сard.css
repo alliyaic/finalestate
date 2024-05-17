@@ -1,0 +1,49 @@
+.new-card {
+    border: 2px solid #00f;
+    border-radius: 12px;
+    overflow: hidden;
+    margin: 20px;
+    width: 320px;
+    box-shadow: 0 6px 12px rgba(0, 0, 255, 0.2);
+  }
+  
+  .new-imgBox {
+    height: 220px;
+    overflow: hidden;
+  }
+  
+  .new-imgBox img {
+    width: 110%;
+    height: 110%;
+    object-fit: contain;
+  }
+  
+  .new-contentBox {
+    padding: 24px;
+  }
+  
+  .new-h3 {
+    margin: 0;
+    font-size: 1.3em;
+    color: #f00;
+  }
+  
+  .new-price {
+    color: #0a0;
+    font-size: 1.7em;
+  }
+  
+  .new-buy {
+    display: block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #f00;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+  }
+  
+  .new-buy:hover {
+    background-color: #c00;
+  }
+  
