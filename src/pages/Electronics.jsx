@@ -1,8 +1,8 @@
 import {Link} from 'react-router-dom';
 import {useEffect, useState} from 'react';
 import axios from 'axios';
-import Card from '../components/card';
-import Products from '../components/products';
+import Card from '../components/Сard';
+import Products from '../components/Products';
 import './Electronics.css';
 //import Navbar from '../components/Navbar';
 
